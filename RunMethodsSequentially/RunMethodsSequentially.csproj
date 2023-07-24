@@ -12,7 +12,7 @@
   </ItemGroup>
 
 	<PropertyGroup>
-		<PackageId>Net.RunMethodsSequentially</PackageId>
+		<PackageId>Net.RunMethodsSequentially.Core</PackageId>
 		<PackageVersion>2.0.0</PackageVersion>
 		<Authors>Jon P Smith</Authors>
 		<Description>Runs updates to single resources, e.g. a database, on startup of an application that has multiple instances</Description>
